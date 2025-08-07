@@ -1,24 +1,39 @@
-# Informática Jones e o Tablet Perdido
+# 🎮 Informática Jones and the Lost Tablet
 
-## Descrição
+A console adventure game where the player takes on the role of Informática Jones. Navigate through a board, collect items, and find the Lost Tablet to win the game while avoiding obstacles and managing energy.
 
-"**Informática Jones e o Tablet Perdido**" é um jogo de aventura em console onde o jogador assume o papel de Informática Jones. O objetivo é navegar por um tabuleiro, apanhar itens e encontrar o Tablet Perdido para vencer o jogo. O jogador deve evitar obstáculos e gerir a sua energia ao longo da jornada.
+## 🎯 Features
 
-## Estrutura do Projeto
+- Console-based adventure gameplay
+- Board navigation and exploration
+- Item collection system
+- Energy management mechanics
+- Object-oriented Java architecture
 
-O projeto é composto pelas seguintes classes:
+## 🏗️ Project Structure
 
-- **Board**: Representa o tabuleiro do jogo, contendo métodos para inicialização, exibição e manipulação do tabuleiro.
-- **Player**: Representa o jogador, contendo métodos para movimentação, coleta de itens e atualização de energia.
-- **Game**: Contém a lógica do jogo, incluindo o loop principal e o processamento de comandos do jogador.
-- **Intro**: Exibe as instruções do jogo e inicia o jogo.
-- **Main**: Contém o método principal que inicia o jogo.
+- **Board**: Game board representation and manipulation
+- **Player**: Character movement, item collection, and energy management
+- **Game**: Main game logic and command processing
+- **Intro**: Game instructions and initialization
+- **Main**: Application entry point
 
-## Instruções de Uso
+## 🚀 Quick Start
 
-### Executando o Jogo
+```bash
+git clone https://github.com/t2ne/InformaticaJonesJava
+cd InformaticaJonesJava
+javac *.java
+java Main
+```
 
-1. Clone o repositório para o seu ambiente local:
+## 🎮 How to Play
 
-   ```sh
-   git clone https://github.com/t8ne/InformaticaJonesJava
+- Use movement commands to navigate the board
+- Collect items to gain advantages
+- Find the Lost Tablet to win
+- Manage your energy wisely
+
+## 👥 Author
+
+- [@t2ne](https://github.com/t2ne)
