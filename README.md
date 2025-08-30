@@ -1,4 +1,4 @@
-# 🎮 Informática Jones and the Lost Tablet
+# 🎮 Engineering Jones and the Lost Tablet
 
 A console adventure game where the player takes on the role of Informática Jones. Navigate through a board, collect items, and find the Lost Tablet to win the game while avoiding obstacles and managing energy.
 
